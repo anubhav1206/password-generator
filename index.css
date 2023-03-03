@@ -1,0 +1,79 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #273549;
+    margin: 0;
+}
+
+
+.white{
+    font-family: 'Karla', sans-serif;
+    color: white;
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+.green{
+    font-family: 'Karla', sans-serif;
+    color: #4ADF86;
+    margin-left: 40%;
+    margin-top: -5%;
+}
+
+.text{
+    margin-top: 20%;
+}
+
+.para{
+    font-family: 'Inter', sans-serif;
+    margin-left: 40%;
+    margin-top: -1%;
+    font-style: bold;
+    color: #D5D4D8;
+}
+
+#btn-password{
+    margin-top: 2%;
+    margin-left: 40%;
+    background-color: #10B981;
+    color: white;
+    padding: 8px 12px;
+    border: 1px solid #10B981;
+    border-radius: 3px;
+    margin-bottom: 35px;
+}
+hr{
+    margin-left: 40%;
+    margin-right: 30%;
+    border: 1.5px solid #2F3E53;
+    height: 0px;
+    
+
+}
+
+.pwd-holder{
+    display: flex;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 39px;
+    color: #55F991;
+}
+
+#pwdholder1{
+    background: #2F3E53;
+    padding: 20px;
+    border: 1px solid #2F3E53;
+    border-radius: 10px;
+
+}
+
+#pwdholder2{
+    margin-left: 33px;
+    margin-right: 10%;
+    background: #2F3E53;
+    padding: 20px;
+    border: 1px solid #2F3E53;
+    border-radius: 10px;
+
+}
